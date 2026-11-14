@@ -1,7 +1,7 @@
 # 🔓 EHI-Unlocker
 
 A single-file, **read-only** decoder for HTTP Injector `.ehi` configuration files
-(`com.evozi.injector`. It peels back all thirteen layers of
+(`com.evozi.injector`). It peels back all thirteen layers of
 the export format and hands you plain JSON. 🧅
 
 Your original `.ehi` files are opened read-only and **never modified**. ✅
